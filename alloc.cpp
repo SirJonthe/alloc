@@ -1,4 +1,5 @@
-/// @file
+/// @file alloc.cpp
+/// @brief Contains a minimalist library that allows heap memory management within a pre-defined memory region, allowing for tighter control over memory.
 /// @author github.com/SirJonthe
 /// @date 2024
 /// @copyright Public domain.

@@ -1,11 +1,12 @@
-/// @file
+/// @file alloc.h
+/// @brief Contains a minimalist library that allows heap memory management within a pre-defined memory region, allowing for tighter control over memory.
 /// @author github.com/SirJonthe
 /// @date 2024
 /// @copyright Public domain.
 /// @license CC0 1.0
 
-#ifndef CC0_ALLOC_H
-#define CC0_ALLOC_H
+#ifndef CC0_ALLOC_H_INCLUDED__
+#define CC0_ALLOC_H_INCLUDED__
 
 #include <cstdint>
 
